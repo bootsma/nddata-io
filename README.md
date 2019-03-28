@@ -4,7 +4,7 @@ N-dimensional Data IO Handling
 
 Simple file format for handling the reading and writing of N-dimensional data.
 
-Highlights
+highlights
 ==========
 - Implemented in MATLAB and C++
 - Supports row-order or column-order format
@@ -12,7 +12,7 @@ Highlights
 - Header built into data binary data format with built in space allocated for user-specific data
 - Date and time stamped storage 
 
-License
+license
 -------
 See the [LICENSE](LICENSE) file.
 
